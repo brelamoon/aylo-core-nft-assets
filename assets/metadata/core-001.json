@@ -1,0 +1,30 @@
+{
+  "name": "Core 001",
+  "symbol": "AYLO",
+  "description": "Core 001 from the AYLO Core collection.",
+  "image": "https://raw.githubusercontent.com/brelamoon/aylo-core-nft-assets/main/assets/images/core-001.png",
+  "external_url": "https://aylo.technology/aylo-core",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Core"
+    },
+    {
+      "trait_type": "Number",
+      "value": "001"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brelamoon/aylo-core-nft-assets/main/assets/images/core-001.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
